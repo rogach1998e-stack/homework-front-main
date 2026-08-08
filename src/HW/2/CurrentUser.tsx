@@ -1,4 +1,4 @@
-import { UserType } from './HW2';
+import type { UserType } from './HW2';
 
 type CurrentUserPropsType = {
   user: UserType; // пропиши типизацию
